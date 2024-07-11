@@ -3,7 +3,7 @@
 The following command runs the task to fine-tune an LLM using QLoRA:
 
 ```shell
-dstack run . -f examples/fine-tuning/qlora/task.dstack.yml
+dstack run . -f examples/fine-tuning/qlora/train.dstack.yml
 ```
 
 See the configuration at [train.dstack.yml](train.dstack.yml).
